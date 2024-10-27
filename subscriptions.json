@@ -11,7 +11,7 @@
         "company_name": "Josh's Overnight Oats"
     },
     "companyA": {
-        "expiry_date": "2024-12-31T23:59:59",
+        "expiry_date": "2024-09-31T23:59:59",
         "available_functions": [
             "cnb_transfer",
             "toast_reconcile"
