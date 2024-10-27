@@ -1,0 +1,12 @@
+{
+    "customer1": {
+        "expiry_date": "2024-12-31T23:59:59",
+        "available_functions": ["cnb_transfer", "toast_reconcile"],
+        "company_name": "Customer 1 Company"
+    },
+    "josh": {
+        "expiry_date": "2024-12-31T23:59:59",
+        "available_functions": ["doordash_payout", "olo_payout"],
+        "company_name": "Oats"
+    }
+}
