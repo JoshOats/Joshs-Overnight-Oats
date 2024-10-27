@@ -28,7 +28,7 @@
     },
     {
     "josh1": {
-        "expiry_date": "2025-11-27T19:39:03.704612",
+        "expiry_date": "2025-10-27T19:39:03.704612",
         "available_functions": [
             "cnb_transfer",
             "toast_reconcile",
