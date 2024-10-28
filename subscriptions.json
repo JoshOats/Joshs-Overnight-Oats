@@ -27,7 +27,7 @@
         "company_name": "Company B"
     },
     "josh1": {
-        "expiry_date": "2024-11-24T19:39:03",
+        "expiry_date": "2024-10-24T19:39:03",
         "available_functions": [
             "cnb_transfer",
             "toast_reconcile",
