@@ -1,0 +1,9 @@
+argon2_cffi_bindings==21.2.0
+cffi==1.16.0
+importlib_metadata==8.5.0
+importlib_metadata==8.0.0
+packaging==24.2
+pyinstaller==6.11.1
+pytest==8.3.3
+traitlets==5.14.3
+typing_extensions==4.12.2
